@@ -1,0 +1,47 @@
+{
+	"name": "space-rangers",
+	"version": "2.0.0",
+	"private": true,
+	"author": {
+		"name": "Vinay Yadav ( Github: @Vinay8git )",
+		"url": "https://www.linkedin.com/in/vinay-yadav-0a7275214/"
+	},
+	"engines": {
+		"npm": ">=8.0.0"
+	},
+	"funding": {
+		"type": "individual",
+		"url": "https://github.com/Vinay8git"
+	},
+	"description": "Space Rangers is a site I am developing to showcase the advancements of humanity in regards to the exploration of outer space. While the core Vue.JS is my own writing, all data you see on the site is returned from various API's.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Vinay8git/space-rangers.git"
+	},
+	"homepage": "https://github.com/Vinay8git/space-rangers.git",
+	"website": "https://www.linkedin.com/in/vinay-yadav-0a7275214/",
+	"scripts": {
+		"serve": "vue-cli-service serve",
+		"build": "vue-cli-service build"
+	},
+	"dependencies": {
+		"axios": "^0.21.1",
+		"leaflet": "^1.7.1",
+		"v-lazy-image": "^2.1.1",
+		"vue": "^2.6.11",
+		"vue-meta": "^2.3.4",
+		"vue-router": "^3.1.6",
+		"vue-scrollto": "^2.18.2",
+		"vue2-datepicker": "^3.10.4",
+		"vue2-leaflet": "^2.7.1"
+	},
+	"devDependencies": {
+		"@vue/cli-service": "^4.5.13",
+		"vue-template-compiler": "^2.6.11"
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not dead"
+	]
+}
