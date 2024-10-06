@@ -7,13 +7,13 @@ Most of the data and images you see—especially those of planets—are taken/ow
 
 I hope the site serves you well, and I am always open to thoughts and opinions.
 
-<a href="https://www.linkedin.com/in/vinay-yadav" target="_blank">- Vinay Yadav (@Vinay8git)</a>
+<a href="https://www.linkedin.com/in/vinay-yadav-0a7275214/" target="_blank">- Vinay Yadav (@Vinay8git)</a>
 
 <div align="center">
-<h3>Support the project and <a href="https://www.linkedin.com/in/vinay-yadav">Buy Me a Coffee ☕️</a></h3>
+<h3>Support the project and <a href="https://www.linkedin.com/in/vinay-yadav-0a7275214/">Buy Me a Coffee ☕️</a></h3>
 </br>
 </div>
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vinay-yadav)
+- [LinkedIn](https://www.linkedin.com/in/vinay-yadav-0a7275214/)
 
